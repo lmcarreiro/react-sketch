@@ -1,4 +1,4 @@
-declare module 'react-sketch' {
+declare module 'react-sketch-whiteboard' {
 	import * as React from 'react'
 
 	export class SketchField extends React.PureComponent<{
